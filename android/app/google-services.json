@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "714529129636",
+    "firebase_url": "https://fir-2ca9b-default-rtdb.firebaseio.com",
+    "project_id": "fir-2ca9b",
+    "storage_bucket": "fir-2ca9b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714529129636:android:cda59afa24b530dc3c9231",
+        "android_client_info": {
+          "package_name": "com.example.onlinedb_mormor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAiY0GhC-o0Fd1pv-yGX82FPSYb98Tb-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
